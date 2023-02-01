@@ -1,7 +1,6 @@
 # Screenshot
 
-![screenshot-localhost_3000-2023 01 09-21_30_56](https://user-images.githubusercontent.com/66960784/211352420-29abc2d9-12c8-4704-b0ff-2c9750142475.png)
-
+<img width="777" alt="Habit_Tracker_App" src="https://user-images.githubusercontent.com/109858101/216122307-2e7a5cf6-b4ba-4d6e-9533-b74305167e3c.PNG">
 
 # Getting Started with Create React App
 
